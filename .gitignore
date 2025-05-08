@@ -1,0 +1,15 @@
+# Ignore all files ending with .log
+*.log
+
+# Ignore the build directory
+/build/
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+.next/
+.README.md/

@@ -1,0 +1,30 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ace-builds": "^1.41.0",
+    "brace": "^0.11.1",
+    "cors": "^2.8.5",
+    "next": "15.3.1",
+    "pyodide": "^0.27.5",
+    "react": "^19.0.0",
+    "react-ace": "^14.0.1",
+    "react-dom": "^19.0.0",
+    "react-player": "^2.16.0",
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.1",
+    "tailwindcss": "^4"
+  }
+}
